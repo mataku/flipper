@@ -1,0 +1,2 @@
+-keep class com.facebook.jni.** { *; }
+-keep class com.facebook.flipper.** { *; }
